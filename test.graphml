@@ -1,0 +1,755 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="long" />
+  <graph edgedefault="directed">
+    <node id="DonaldTrump" />
+    <node id="JoeBiden" />
+    <node id="donaldtrump" />
+    <node id="Trump:" />
+    <node id="Trump" />
+    <node id="Election2020" />
+    <node id="censorship" />
+    <node id="Trump." />
+    <node id="MAGA" />
+    <node id="KAG" />
+    <node id="Biden" />
+    <node id="TrumpIsALaughingStock" />
+    <node id="TrumpCovid19" />
+    <node id="MAGA2020" />
+    <node id="USA" />
+    <node id="TrumpRallyDesMoines" />
+    <node id="COVID19" />
+    <node id="TrumpLiesAmericansDie" />
+    <node id="trump" />
+    <node id="TrumpPence2020" />
+    <node id="politics" />
+    <node id="tRump" />
+    <node id="TrumpFakedCovid" />
+    <node id="TrumpFailed" />
+    <node id="TrumpCrimeFamily" />
+    <node id="fools" />
+    <node id="COVIDIOTS" />
+    <node id="DumpTrump" />
+    <node id="election" />
+    <edge source="DonaldTrump" target="JoeBiden">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="DonaldTrump" target="censorship">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DonaldTrump" target="MAGA">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DonaldTrump" target="KAG">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DonaldTrump" target="MAGA2020">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DonaldTrump" target="TrumpRallyDesMoines">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DonaldTrump" target="trump">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="DonaldTrump" target="TrumpPence2020">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="DonaldTrump" target="politics">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="JoeBiden" target="DonaldTrump">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="JoeBiden" target="donaldtrump">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="JoeBiden" target="Trump">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="JoeBiden" target="censorship">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="JoeBiden" target="Trump.">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="JoeBiden" target="USA">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="JoeBiden" target="TrumpPence2020">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donaldtrump" target="JoeBiden">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donaldtrump" target="MAGA">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="donaldtrump" target="trump">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="donaldtrump" target="election">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Trump" target="JoeBiden">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Trump" target="Election2020">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Trump" target="censorship">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Trump" target="MAGA">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Trump" target="KAG">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Trump" target="Biden">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Trump" target="TrumpIsALaughingStock">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Trump" target="TrumpCovid19">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Trump" target="MAGA2020">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Trump" target="USA">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Trump" target="TrumpRallyDesMoines">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Trump" target="COVID19">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Trump" target="TrumpLiesAmericansDie">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Trump" target="TrumpPence2020">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Trump" target="politics">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Trump" target="TrumpFakedCovid">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Trump" target="TrumpFailed">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Trump" target="TrumpCrimeFamily">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Trump" target="fools">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Trump" target="COVIDIOTS">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Trump" target="DumpTrump">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Trump" target="election">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Election2020" target="Trump">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Election2020" target="censorship">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Election2020" target="Biden">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Election2020" target="politics">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Election2020" target="election">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="censorship" target="DonaldTrump">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="censorship" target="JoeBiden">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="censorship" target="Trump">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="censorship" target="Election2020">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="censorship" target="Trump.">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="censorship" target="MAGA">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="censorship" target="KAG">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="censorship" target="Biden">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="censorship" target="MAGA2020">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="censorship" target="TrumpPence2020">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="censorship" target="politics">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="censorship" target="election">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Trump." target="JoeBiden">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Trump." target="censorship">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="MAGA" target="DonaldTrump">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="MAGA" target="donaldtrump">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="MAGA" target="Trump">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="MAGA" target="censorship">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="MAGA" target="KAG">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="MAGA" target="MAGA2020">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="MAGA" target="USA">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="MAGA" target="trump">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="MAGA" target="TrumpPence2020">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="MAGA" target="election">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="KAG" target="DonaldTrump">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="KAG" target="Trump">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="KAG" target="censorship">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="KAG" target="MAGA">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="KAG" target="MAGA2020">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="KAG" target="USA">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="KAG" target="TrumpPence2020">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="KAG" target="election">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Biden" target="Trump">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Biden" target="Election2020">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Biden" target="censorship">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Biden" target="MAGA2020">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Biden" target="politics">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Biden" target="election">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TrumpIsALaughingStock" target="Trump">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="TrumpIsALaughingStock" target="TrumpCovid19">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TrumpIsALaughingStock" target="COVID19">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpIsALaughingStock" target="TrumpLiesAmericansDie">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpIsALaughingStock" target="TrumpPence2020">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpIsALaughingStock" target="TrumpFakedCovid">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpIsALaughingStock" target="TrumpFailed">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpIsALaughingStock" target="TrumpCrimeFamily">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpIsALaughingStock" target="fools">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpIsALaughingStock" target="COVIDIOTS">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpIsALaughingStock" target="DumpTrump">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpCovid19" target="Trump">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="TrumpCovid19" target="TrumpIsALaughingStock">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TrumpCovid19" target="TrumpRallyDesMoines">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TrumpCovid19" target="COVID19">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TrumpCovid19" target="tRump">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="MAGA2020" target="DonaldTrump">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="MAGA2020" target="Trump">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="MAGA2020" target="censorship">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="MAGA2020" target="MAGA">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="MAGA2020" target="KAG">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="MAGA2020" target="Biden">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="MAGA2020" target="TrumpPence2020">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="MAGA2020" target="politics">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="USA" target="JoeBiden">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="USA" target="Trump">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="USA" target="MAGA">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="USA" target="KAG">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="USA" target="election">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="TrumpRallyDesMoines" target="DonaldTrump">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TrumpRallyDesMoines" target="Trump">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="TrumpRallyDesMoines" target="TrumpCovid19">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TrumpRallyDesMoines" target="COVID19">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="COVID19" target="Trump">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="COVID19" target="TrumpIsALaughingStock">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="COVID19" target="TrumpCovid19">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="COVID19" target="TrumpRallyDesMoines">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="COVID19" target="TrumpLiesAmericansDie">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="COVID19" target="TrumpPence2020">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="COVID19" target="TrumpFakedCovid">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="COVID19" target="TrumpFailed">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="COVID19" target="TrumpCrimeFamily">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="COVID19" target="fools">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="COVID19" target="COVIDIOTS">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="COVID19" target="DumpTrump">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpLiesAmericansDie" target="Trump">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="TrumpLiesAmericansDie" target="TrumpIsALaughingStock">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpLiesAmericansDie" target="COVID19">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="TrumpLiesAmericansDie" target="TrumpPence2020">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpLiesAmericansDie" target="TrumpFakedCovid">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpLiesAmericansDie" target="TrumpFailed">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpLiesAmericansDie" target="TrumpCrimeFamily">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpLiesAmericansDie" target="fools">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpLiesAmericansDie" target="COVIDIOTS">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpLiesAmericansDie" target="DumpTrump">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="trump" target="DonaldTrump">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="trump" target="donaldtrump">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="trump" target="MAGA">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="trump" target="TrumpCrimeFamily">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="trump" target="election">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TrumpPence2020" target="DonaldTrump">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="TrumpPence2020" target="JoeBiden">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TrumpPence2020" target="Trump">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="TrumpPence2020" target="censorship">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TrumpPence2020" target="MAGA">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TrumpPence2020" target="KAG">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TrumpPence2020" target="TrumpIsALaughingStock">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpPence2020" target="MAGA2020">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TrumpPence2020" target="COVID19">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpPence2020" target="TrumpLiesAmericansDie">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpPence2020" target="TrumpFakedCovid">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpPence2020" target="TrumpFailed">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpPence2020" target="TrumpCrimeFamily">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpPence2020" target="fools">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpPence2020" target="COVIDIOTS">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpPence2020" target="DumpTrump">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="politics" target="DonaldTrump">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="politics" target="Trump">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="politics" target="Election2020">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="politics" target="censorship">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="politics" target="Biden">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="politics" target="MAGA2020">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="politics" target="election">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="tRump" target="TrumpCovid19">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TrumpFakedCovid" target="Trump">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpFakedCovid" target="TrumpIsALaughingStock">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpFakedCovid" target="COVID19">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpFakedCovid" target="TrumpLiesAmericansDie">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpFakedCovid" target="TrumpPence2020">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpFakedCovid" target="TrumpFailed">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpFakedCovid" target="TrumpCrimeFamily">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpFakedCovid" target="fools">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpFakedCovid" target="COVIDIOTS">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpFakedCovid" target="DumpTrump">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpFailed" target="Trump">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpFailed" target="TrumpIsALaughingStock">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpFailed" target="COVID19">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpFailed" target="TrumpLiesAmericansDie">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpFailed" target="TrumpPence2020">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpFailed" target="TrumpFakedCovid">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpFailed" target="TrumpCrimeFamily">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpFailed" target="fools">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpFailed" target="COVIDIOTS">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpFailed" target="DumpTrump">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpCrimeFamily" target="Trump">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpCrimeFamily" target="TrumpIsALaughingStock">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpCrimeFamily" target="COVID19">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpCrimeFamily" target="TrumpLiesAmericansDie">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpCrimeFamily" target="trump">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="TrumpCrimeFamily" target="TrumpPence2020">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpCrimeFamily" target="TrumpFakedCovid">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpCrimeFamily" target="TrumpFailed">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpCrimeFamily" target="fools">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpCrimeFamily" target="COVIDIOTS">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="TrumpCrimeFamily" target="DumpTrump">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="fools" target="Trump">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="fools" target="TrumpIsALaughingStock">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="fools" target="COVID19">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="fools" target="TrumpLiesAmericansDie">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="fools" target="TrumpPence2020">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="fools" target="TrumpFakedCovid">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="fools" target="TrumpFailed">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="fools" target="TrumpCrimeFamily">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="fools" target="COVIDIOTS">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="fools" target="DumpTrump">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="COVIDIOTS" target="Trump">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="COVIDIOTS" target="TrumpIsALaughingStock">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="COVIDIOTS" target="COVID19">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="COVIDIOTS" target="TrumpLiesAmericansDie">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="COVIDIOTS" target="TrumpPence2020">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="COVIDIOTS" target="TrumpFakedCovid">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="COVIDIOTS" target="TrumpFailed">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="COVIDIOTS" target="TrumpCrimeFamily">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="COVIDIOTS" target="fools">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="COVIDIOTS" target="DumpTrump">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="DumpTrump" target="Trump">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="DumpTrump" target="TrumpIsALaughingStock">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="DumpTrump" target="COVID19">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="DumpTrump" target="TrumpLiesAmericansDie">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="DumpTrump" target="TrumpPence2020">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="DumpTrump" target="TrumpFakedCovid">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="DumpTrump" target="TrumpFailed">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="DumpTrump" target="TrumpCrimeFamily">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="DumpTrump" target="fools">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="DumpTrump" target="COVIDIOTS">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="election" target="donaldtrump">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="election" target="Trump">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="election" target="Election2020">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="election" target="censorship">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="election" target="MAGA">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="election" target="KAG">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="election" target="Biden">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="election" target="USA">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="election" target="trump">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="election" target="politics">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>
